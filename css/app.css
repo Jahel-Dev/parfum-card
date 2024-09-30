@@ -34,6 +34,10 @@ main {
   border-radius: 8px;
 }
 
+.parfum-picture {
+    width: 50%;
+}
+
 .parfum-card {
   display: flex;
   flex-direction: column;
