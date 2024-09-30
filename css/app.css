@@ -29,7 +29,7 @@ main {
   display: flex;
   justify-content: space-between;
   background-color: white;
-  width: 650px;
+  width: 600px;
   height: 450px;
   border-radius: 8px;
 }
@@ -72,7 +72,7 @@ main {
   font-weight: 700;
 }
 
-.price-line-trougth{
+.price-line-trougth {
   color: grey;
   text-decoration: line-through;
   margin-left: 16px;
@@ -93,7 +93,7 @@ a {
 }
 
 a:hover {
-    background-color: #1A4032;
+  background-color: #1a4032;
 }
 
 .shop {
